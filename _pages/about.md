@@ -21,7 +21,7 @@ Major: Software Engineering (Overall GPA: 4.3/5 Rank: 1st/101)
 
 PUBLICATIONS
 ======
-- **Shanyue Wang**, Yuxin Ding, Yubo Yan, et al. “MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion”, IEEE Conference on Computer Communications (INFOCOM 2025).
+- **Shanyue Wang**, Yuxin Ding, Yubo Yan, et al. “MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion”, IEEE Conference on Computer Communications (<span style="color:red;">INFOCOM 2025</span>).
 - **Shanyue Wang**, Yubo Yan, Feiyu Han, et al. “MultiRider: Enabling Multi-Tag Concurrent OFDM Backscatter by Taming In-band Interferences” The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024).
 - **Shanyue Wang**, Feiyu Han, Yubo Yan, et al. “Slickscatter: Help WiFi Backscatter Signal Survive from the Unknown Interferences”, IEEE/ACM International Symposium on Quality of Service (IWQoS 2024).
 - **Shanyue Wang**, Yubo Yan, Yujie Chen, et al. “Spray: A Spectrum-efficient and Agile Concurrent Backscatter System”, ACM Transactions on Sensor Networks (TOSN 2024).
