@@ -22,18 +22,18 @@ Major: Software Engineering (Overall GPA: 4.3/5 Rank: 1st/101)
 PUBLICATIONS
 ======
 - **Shanyue Wang**, Yuxin Ding, Yubo Yan, et al. “MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion”, IEEE Conference on Computer Communications (<span style="color:red;">INFOCOM 2025</span>).
-- **Shanyue Wang**, Yubo Yan, Feiyu Han, et al. “MultiRider: Enabling Multi-Tag Concurrent OFDM Backscatter by Taming In-band Interferences” The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024).
-- **Shanyue Wang**, Feiyu Han, Yubo Yan, et al. “Slickscatter: Help WiFi Backscatter Signal Survive from the Unknown Interferences”, IEEE/ACM International Symposium on Quality of Service (IWQoS 2024).
-- **Shanyue Wang**, Yubo Yan, Yujie Chen, et al. “Spray: A Spectrum-efficient and Agile Concurrent Backscatter System”, ACM Transactions on Sensor Networks (TOSN 2024).
-- **Shanyue Wang**, Yuxin Ding, Yubo Yan, et al. “Reliable Backscatter Video Streaming with Ambient WiFi”, ACM Transactions on Internet of Things (TIOT, Major Revision).
-- Xiang-Yang Li, **Shanyue Wang**, Chi Zhang, et al. “Enhanced Capacity for Multi-Tag Concurrent Backscatter Communication Systems under Spectrum Constraints”, Journal of Computer Research and Development (JCRD 2024).
-- Yuxin Ding, **Shanyue Wang**, Yubo Yan, et al. “VideoBack: High Quality Video Backscatter with Ambient WiFi”, International Conference on Parallel and Distributed Systems (ICPADS 2023).
-- Qinmeng Du, **Shanyue Wang**, Xiang Cui, et al. “An Image Recovery Method for Non-Retransmission Backscatter Communication”, IEEE International Conference on Mobility, Sensing and Networking (MSN 2024).
-- Yachen Mao, Yubo Yan, **Shanyue Wang**, et al. “Stabilizing Dynamic Backscatter for Swift and Accurate Object Tracking”, ACM Transactions on Sensor Networks (TOSN 2024).
-- Yujie Chen, Yuxin Ding, **Shanyue Wang**, et al. “WiB-MAC: Collision-Avoidance Multiple Access for Wi-Fi Backscatter Networks”, IEEE/ACM International Symposium on Quality of Service (IWQoS 2024).
-- Yachen Mao, Panlong Yang, **Shanyue Wang**, et al. “STABack: Making Dynamic Backscattering Stable for Fast and Accurate Object Tracking”, IEEE/ACM International Symposium on Quality of Service (IWQoS 2023).
-- Xiang Cui, Yachen Mao, Qinmeng Du, **Shanyue Wang**, et al. “A Framework for Adaptive Adjustment in BLE-Based Low Power IoT Vision”, IEEE Internet of Things Journal (IOTJ 2024).
-- Xiang-Yang Li, Fei Shang, Yubo Yan, **Shanyue Wang**, et al. “Survey on Low Power Sensing of AloT”, Journal of Computer Research and Development (JCRD 2024).
+- **Shanyue Wang**, Yubo Yan, Feiyu Han, et al. “MultiRider: Enabling Multi-Tag Concurrent OFDM Backscatter by Taming In-band Interferences” The 22nd ACM International Conference on Mobile Systems, Applications, and Services (<span style="color:red;">MobiSys 2024).
+- **Shanyue Wang**, Feiyu Han, Yubo Yan, et al. “Slickscatter: Help WiFi Backscatter Signal Survive from the Unknown Interferences”, IEEE/ACM International Symposium on Quality of Service (<span style="color:red;">IWQoS 2024</span>).
+- **Shanyue Wang**, Yubo Yan, Yujie Chen, et al. “Spray: A Spectrum-efficient and Agile Concurrent Backscatter System”, ACM Transactions on Sensor Networks (<span style="color:red;">TOSN 2024</span>).
+- **Shanyue Wang**, Yuxin Ding, Yubo Yan, et al. “Reliable Backscatter Video Streaming with Ambient WiFi”, ACM Transactions on Internet of Things (<span style="color:red;">TIOT, Major Revision</span>).
+- Xiang-Yang Li, **Shanyue Wang**, Chi Zhang, et al. “Enhanced Capacity for Multi-Tag Concurrent Backscatter Communication Systems under Spectrum Constraints”, Journal of Computer Research and Development (<span style="color:red;">JCRD 2024</span>).
+- Yuxin Ding, **Shanyue Wang**, Yubo Yan, et al. “VideoBack: High Quality Video Backscatter with Ambient WiFi”, International Conference on Parallel and Distributed Systems (<span style="color:red;">ICPADS 2023</span>).
+- Qinmeng Du, **Shanyue Wang**, Xiang Cui, et al. “An Image Recovery Method for Non-Retransmission Backscatter Communication”, IEEE International Conference on Mobility, Sensing and Networking (<span style="color:red;">MSN 2024</span>).
+- Yachen Mao, Yubo Yan, **Shanyue Wang**, et al. “Stabilizing Dynamic Backscatter for Swift and Accurate Object Tracking”, ACM Transactions on Sensor Networks (<span style="color:red;">TOSN 2024</span>).
+- Yujie Chen, Yuxin Ding, **Shanyue Wang**, et al. “WiB-MAC: Collision-Avoidance Multiple Access for Wi-Fi Backscatter Networks”, IEEE/ACM International Symposium on Quality of Service (<span style="color:red;">IWQoS 2024</span>).
+- Yachen Mao, Panlong Yang, **Shanyue Wang**, et al. “STABack: Making Dynamic Backscattering Stable for Fast and Accurate Object Tracking”, IEEE/ACM International Symposium on Quality of Service (<span style="color:red;">IWQoS 2023</span>).
+- Xiang Cui, Yachen Mao, Qinmeng Du, **Shanyue Wang**, et al. “A Framework for Adaptive Adjustment in BLE-Based Low Power IoT Vision”, IEEE Internet of Things Journal (<span style="color:red;">IOTJ 2024</span>).
+- Xiang-Yang Li, Fei Shang, Yubo Yan, **Shanyue Wang**, et al. “Survey on Low Power Sensing of AloT”, Journal of Computer Research and Development (<span style="color:red;">JCRD 2024</span>).
 
 
 RESEARCH PLATFORMS
