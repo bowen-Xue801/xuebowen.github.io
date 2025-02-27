@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : <br><src='/images/wsy.png'>#"./images/wsy.jpg"
+  avatar           : <br/><img src='/images/wsy.png'>#"./images/wsy.jpg"
   name             : "Shanyue Wang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
