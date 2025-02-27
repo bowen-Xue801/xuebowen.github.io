@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shanyue Wang  王山岳"
+title                    : "Shanyue Wang"
 title_separator          : "-"
 name                     : &name "Shanyue Wang"
 description              : &description "personal description"
